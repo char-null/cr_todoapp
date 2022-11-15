@@ -14,6 +14,7 @@ youtube 개발하는남자님의 코딩레이스 참여 결과물!
 1. 할 일 개수 표시/한 일 개수 표시
 2. sliding up panel 내에 tabbar/tabbarview 구현
 3. 할 일 완료시 progressbar 애니메이션으로 구현
+4. 할 일 작성/완료/삭제 시 상단에 Get에서 제공하는 snackbar 사용
 
 
 ## 화면 스크린샷
